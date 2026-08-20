@@ -62,5 +62,12 @@
   "practice/sql/nightmare/nightmare-floyd-001/solution.sql": "b0ba8cffe38a172849e81186385e6b2ae5d3b1fb8909e20a2a6151bca6d9077e",
   "practice/sql/nightmare/sql-nightmare-008/solution.sql": "b08da3693d384c8d91eb6e233a456a4b2ba44524b6240ff44cb0362005acd904",
   "practice/sql/nightmare/nightmare-cumulative-salary-001/solution.sql": "25aff4e082ffacfa1e3a76398d8d83a693d90c8922f2fd6f6debe93c0fb3b244",
-  "practice/sql/nightmare/nightmare-statemachine-001/solution.sql": "6e81b7cc7c60f8a60fe5e28f8656adc634158ff6e5effdd9438e3a6f8bc303bb"
+  "practice/sql/nightmare/nightmare-statemachine-001/solution.sql": "6e81b7cc7c60f8a60fe5e28f8656adc634158ff6e5effdd9438e3a6f8bc303bb",
+  "practice/sql/nightmare/nightmare-median-freq-001/solution.sql": "7adb479dc321c264d38e9c5e5e3f5e4af2c06a4026f32784e58996b157112007",
+  "practice/sql/nightmare/nightmare-exchange-seats-001/solution.sql": "0b25df7ed1823e6e6bf8c834da5d195801bb29dabbdb770074873c30414e59c4",
+  "practice/sql/nightmare/nightmare-prorate-001/solution.sql": "e18e7f641e518125d77ab377142f8a4ef9eb2d94ea4d3d2c5638288b5ca0b078",
+  "practice/sql/nightmare/expert-final-win-010/solution.sql": "ee566a06ce2150ff53c221b3bad8481be89c290c0fa559d17e64bf2fb2c5b584",
+  "practice/sql/nightmare/sql-nightmare-007/solution.sql": "4eacd3514a98541bf4d993506b426e984109bf197e1a644603222a006bcf8f5b",
+  "practice/sql/nightmare/expert-final-gap-001/solution.sql": "08329a4cc6beaddfdea77f62f9eb45b6879588a59544dccda177e9d958c487d0",
+  "practice/sql/nightmare/sql-nightmare-006/solution.sql": "efeae61ddd2a09cf97a4af52793da210d86b289baa1aa07f93b1382ade929d35"
 }
