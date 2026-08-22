@@ -1,0 +1,25 @@
+-- Xom Data · Three-level sales totals: detail, by region, company-wide
+-- Problem: https://xomdata.com/practice/expert-final-mix-009
+-- Solved: 2026-08-22
+
+WITH TOTAL_SALES AS
+(SELECT 
+    NULL AS REGION, 
+    NULL AS ROOM,
+    SUM(REVENUE) AS TOTAL_SALES
+FROM SALES
+UNION
+SELECT 
+    REGION, 
+    ROOM,
+    SUM(revenue) OVER (PARTITION BY REGION, ROOM ORDER BY REGION ASC NULLS LAST, ROOM ASC ) AS TOTAL_SALES 
+FROM SALES
+
+UNION
+SELECT 
+    REGION, 
+    NULL AS ROOM,
+    SUM(revenue) OVER (PARTITION BY REGION ) AS TOTAL_SALES 
+FROM SALES)
+SELECT * FROM TOTAL_SALES
+ORDER BY REGION ASC NULLS LAST, ROOM ASC NULLS LAST;
