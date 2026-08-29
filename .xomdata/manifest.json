@@ -69,5 +69,15 @@
   "practice/sql/nightmare/expert-final-win-010/solution.sql": "ee566a06ce2150ff53c221b3bad8481be89c290c0fa559d17e64bf2fb2c5b584",
   "practice/sql/nightmare/sql-nightmare-007/solution.sql": "4eacd3514a98541bf4d993506b426e984109bf197e1a644603222a006bcf8f5b",
   "practice/sql/nightmare/expert-final-gap-001/solution.sql": "08329a4cc6beaddfdea77f62f9eb45b6879588a59544dccda177e9d958c487d0",
-  "practice/sql/nightmare/sql-nightmare-006/solution.sql": "efeae61ddd2a09cf97a4af52793da210d86b289baa1aa07f93b1382ade929d35"
+  "practice/sql/nightmare/sql-nightmare-006/solution.sql": "efeae61ddd2a09cf97a4af52793da210d86b289baa1aa07f93b1382ade929d35",
+  "practice/sql/nightmare/nightmare-lis-001/solution.sql": "5cae12a13f2407fd7d994c1688ee87fa18401a541df92d152da477dad1cbe7f6",
+  "practice/sql/nightmare/nightmare-cancel-rate-001/solution.sql": "f85bb6a7f70f7bf60e9ebb5a112c165b83bccad416fa44c0a0ad67dea3992dc8",
+  "practice/sql/nightmare/expert-final-mix-009/solution.sql": "4799bf910b3fe19c8636f53afd7816f07695f5361f2bb1ec2e3682010890d130",
+  "practice/sql/nightmare/nightmare-dfs-cycle-001/solution.sql": "a8fe49b64db2aef2d318285e488b04fa30b764ac1341a7da67fa756da53be716",
+  "practice/sql/nightmare/nightmare-top3-dept-001/solution.sql": "c5dde559f58c1a9c6f91687cc0f5e67f3162d180ac9f45f8a9c5c2e62e145227",
+  "practice/sql/nightmare/nightmare-streak-001/solution.sql": "a0c6f7fe2a2f695c9d1b953374294f3d1ce9be9dd6da4e7acd4e213d62b07ec4",
+  "practice/sql/nightmare/nightmare-pipeline-001/solution.sql": "91cbc864ca539bd88eccb29b97d4de88968dd20caaf2222ed1fdfe6523b966e7",
+  "practice/sql/nightmare/nightmare-sieve-001/solution.sql": "5dc47565ee383af41ffc074817d6828005bf2259971c7c975daf4ab316dedaab",
+  "practice/sql/nightmare/nightmare-network-001/solution.sql": "c1940494b48e0da204d519830b61faa0518d27702c3630336e31b7fe2721d4e1",
+  "practice/sql/nightmare/nightmare-maxprod-001/solution.sql": "2b556024d971b083fba6f006fd32c06ff138ed3f1446f35ff63e3ced6547bdd5"
 }

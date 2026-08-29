@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**71** problems solved on [Xom Data](https://xomdata.com/practice).
+**81** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 0 | 31 | 12 | 28 | 71 |
+| SQL | 0 | 31 | 12 | 38 | 81 |
 
 **Recently solved**
 
-- [sql-nightmare-006](https://xomdata.com/practice/sql-nightmare-006) · Nightmare · 2026-08-20
-- [expert-final-gap-001](https://xomdata.com/practice/expert-final-gap-001) · Nightmare · 2026-08-18
-- [sql-nightmare-007](https://xomdata.com/practice/sql-nightmare-007) · Nightmare · 2026-08-18
-- [expert-final-win-010](https://xomdata.com/practice/expert-final-win-010) · Nightmare · 2026-08-17
-- [nightmare-prorate-001](https://xomdata.com/practice/nightmare-prorate-001) · Nightmare · 2026-08-17
-- [nightmare-exchange-seats-001](https://xomdata.com/practice/nightmare-exchange-seats-001) · Nightmare · 2026-08-13
-- [nightmare-median-freq-001](https://xomdata.com/practice/nightmare-median-freq-001) · Nightmare · 2026-08-13
-- [nightmare-statemachine-001](https://xomdata.com/practice/nightmare-statemachine-001) · Nightmare · 2026-08-12
-- [nightmare-cumulative-salary-001](https://xomdata.com/practice/nightmare-cumulative-salary-001) · Nightmare · 2026-08-11
-- [sql-nightmare-008](https://xomdata.com/practice/sql-nightmare-008) · Nightmare · 2026-08-11
+- [nightmare-maxprod-001](https://xomdata.com/practice/nightmare-maxprod-001) · Nightmare · 2026-08-29
+- [nightmare-network-001](https://xomdata.com/practice/nightmare-network-001) · Nightmare · 2026-08-29
+- [nightmare-sieve-001](https://xomdata.com/practice/nightmare-sieve-001) · Nightmare · 2026-08-27
+- [nightmare-pipeline-001](https://xomdata.com/practice/nightmare-pipeline-001) · Nightmare · 2026-08-25
+- [nightmare-streak-001](https://xomdata.com/practice/nightmare-streak-001) · Nightmare · 2026-08-24
+- [nightmare-top3-dept-001](https://xomdata.com/practice/nightmare-top3-dept-001) · Nightmare · 2026-08-24
+- [nightmare-dfs-cycle-001](https://xomdata.com/practice/nightmare-dfs-cycle-001) · Nightmare · 2026-08-23
+- [expert-final-mix-009](https://xomdata.com/practice/expert-final-mix-009) · Nightmare · 2026-08-22
+- [nightmare-cancel-rate-001](https://xomdata.com/practice/nightmare-cancel-rate-001) · Nightmare · 2026-08-22
+- [nightmare-lis-001](https://xomdata.com/practice/nightmare-lis-001) · Nightmare · 2026-08-20
 
-_Synced 71 solutions · last update 2026-08-20_
+_Synced 81 solutions · last update 2026-08-29_
 
 <!-- xomdata:stats:end -->
 
