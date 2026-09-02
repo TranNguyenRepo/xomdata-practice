@@ -79,5 +79,9 @@
   "practice/sql/nightmare/nightmare-pipeline-001/solution.sql": "91cbc864ca539bd88eccb29b97d4de88968dd20caaf2222ed1fdfe6523b966e7",
   "practice/sql/nightmare/nightmare-sieve-001/solution.sql": "5dc47565ee383af41ffc074817d6828005bf2259971c7c975daf4ab316dedaab",
   "practice/sql/nightmare/nightmare-network-001/solution.sql": "c1940494b48e0da204d519830b61faa0518d27702c3630336e31b7fe2721d4e1",
-  "practice/sql/nightmare/nightmare-maxprod-001/solution.sql": "2b556024d971b083fba6f006fd32c06ff138ed3f1446f35ff63e3ced6547bdd5"
+  "practice/sql/nightmare/nightmare-maxprod-001/solution.sql": "2b556024d971b083fba6f006fd32c06ff138ed3f1446f35ff63e3ced6547bdd5",
+  "practice/sql/nightmare/nightmare-tsp-001/solution.sql": "d373bbc49b305d343cf3ad1f7e22ba6a6bc8778e0a48a5e9b885af01ab975479",
+  "practice/sql/nightmare/nightmare-hamilton-001/solution.sql": "da194e02645f4746ee18b3c218b17b32fbe3d6ddb872c3241f265d9b30789850",
+  "practice/sql/nightmare/nightmare-twa-001/solution.sql": "79c26a4d51f6b4e42be6e5e11d1cdf08166b3f2d17c9005ef9abefa7783aecef",
+  "practice/sql/hard/hard-multicte-001/solution.sql": "2a0e94c6395b43d89ef65419a0f36d361c6aa3bbfbce92baaa8d15a5a705df53"
 }
