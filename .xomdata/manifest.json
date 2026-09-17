@@ -83,5 +83,21 @@
   "practice/sql/nightmare/nightmare-tsp-001/solution.sql": "d373bbc49b305d343cf3ad1f7e22ba6a6bc8778e0a48a5e9b885af01ab975479",
   "practice/sql/nightmare/nightmare-hamilton-001/solution.sql": "da194e02645f4746ee18b3c218b17b32fbe3d6ddb872c3241f265d9b30789850",
   "practice/sql/nightmare/nightmare-twa-001/solution.sql": "79c26a4d51f6b4e42be6e5e11d1cdf08166b3f2d17c9005ef9abefa7783aecef",
-  "practice/sql/hard/hard-multicte-001/solution.sql": "2a0e94c6395b43d89ef65419a0f36d361c6aa3bbfbce92baaa8d15a5a705df53"
+  "practice/sql/hard/hard-multicte-001/solution.sql": "2a0e94c6395b43d89ef65419a0f36d361c6aa3bbfbce92baaa8d15a5a705df53",
+  "practice/sql/nightmare/nightmare-tree-path-001/solution.sql": "ab8293ce71ccd597f3b9028a62ffbef41f5deedc78a6aaa25fcdd7f02f7dda68",
+  "practice/sql/nightmare/expert-final-win-008/solution.sql": "8b2272ff1d5a20ee72f3884b3ffbe199da27bf0e097d3e4e1befa5c4792ba057",
+  "practice/sql/nightmare/nightmare-contiguous-dates-001/solution.sql": "c7f48964f596b22cc4a99f901191793f6dbcfdbc52f86e04725e8230d90cfd03",
+  "practice/sql/nightmare/expert-final-cohort-002/solution.sql": "2a4e89370f52c4effbc91c1d3a98f7d8452f58b9147473ad1da301078e25bfab",
+  "practice/sql/nightmare/nightmare-greedy-capacity-001/solution.sql": "496cd8de5073943b70bb5b583541bd7572de9830975aac652a2b7eea95e74b27",
+  "practice/sql/nightmare/nightmare-wordbreak-001/solution.sql": "7f7b2f0c702ccea5a5a9aaf8fadb50a69dbca1e1f7d3863cc9b4979a0073a5c8",
+  "practice/sql/hard/hard-gapfill-001/solution.sql": "792a618af2f894f0e1b26208c2c4db643a72d075c66017ddce2f0d0fc89ec186",
+  "practice/sql/easy/easy-where-010/solution.sql": "2c18bb4b6cfd2790890feb9a457dec61cc315f303b814f17a1b252fe710dfeba",
+  "practice/sql/hard/hard-streak-001/solution.sql": "a26a673251d1e3532fa31a0886cf165bc071b947e895aca7354ad2e23a8d95f6",
+  "practice/sql/nightmare/expert-final-rec-003/solution.sql": "b46e82d7a25287b255cf58012e6b6319fae77c7afbb57c884749eed8413eea34",
+  "practice/sql/nightmare/nightmare-scc-001/solution.sql": "cf39519396566bf0d0fceba7a5ef4249e49773127124eef89c70a01de09de00c",
+  "practice/sql/nightmare/nightmare-components-001/solution.sql": "d2a1302eba6a1f7d75bdda5f080c01a3c363e09b44b09d921e2c52d4f480f762",
+  "practice/sql/nightmare/nightmare-houserobber-001/solution.sql": "f8f4bb49ac2a2736cfded5ea6bee983ddaafdd386f3491659551e19d53568287",
+  "practice/sql/nightmare/nightmare-bipartite-001/solution.sql": "e6ff8aab1985c7abe2736ea1b55c96c1c9e5299c4a9dec75a5b00344dbd9f1c6",
+  "practice/sql/nightmare/nightmare-subsetsum-001/solution.sql": "7e8bf1befc5d7bf2a0ceea15e2a463fb0bb8d425c059e807ddedde5a83aeadb3",
+  "practice/sql/nightmare/nightmare-sudoku4x4-001/solution.sql": "fdd81ef770090992aba5c7fde23f101a4b8ebf472ffd438d1b9f58f64ec8f905"
 }

@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**85** problems solved on [Xom Data](https://xomdata.com/practice).
+**101** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 0 | 31 | 13 | 41 | 85 |
+| SQL | 1 | 31 | 15 | 54 | 101 |
 
 **Recently solved**
 
-- [hard-multicte-001](https://xomdata.com/practice/hard-multicte-001) · Hard · 2026-09-02
-- [nightmare-twa-001](https://xomdata.com/practice/nightmare-twa-001) · Nightmare · 2026-09-01
-- [nightmare-hamilton-001](https://xomdata.com/practice/nightmare-hamilton-001) · Nightmare · 2026-09-01
-- [nightmare-tsp-001](https://xomdata.com/practice/nightmare-tsp-001) · Nightmare · 2026-08-30
-- [nightmare-maxprod-001](https://xomdata.com/practice/nightmare-maxprod-001) · Nightmare · 2026-08-29
-- [nightmare-network-001](https://xomdata.com/practice/nightmare-network-001) · Nightmare · 2026-08-29
-- [nightmare-sieve-001](https://xomdata.com/practice/nightmare-sieve-001) · Nightmare · 2026-08-27
-- [nightmare-pipeline-001](https://xomdata.com/practice/nightmare-pipeline-001) · Nightmare · 2026-08-25
-- [nightmare-streak-001](https://xomdata.com/practice/nightmare-streak-001) · Nightmare · 2026-08-24
-- [nightmare-top3-dept-001](https://xomdata.com/practice/nightmare-top3-dept-001) · Nightmare · 2026-08-24
+- [nightmare-sudoku4x4-001](https://xomdata.com/practice/nightmare-sudoku4x4-001) · Nightmare · 2026-09-14
+- [nightmare-subsetsum-001](https://xomdata.com/practice/nightmare-subsetsum-001) · Nightmare · 2026-09-14
+- [nightmare-bipartite-001](https://xomdata.com/practice/nightmare-bipartite-001) · Nightmare · 2026-09-13
+- [nightmare-houserobber-001](https://xomdata.com/practice/nightmare-houserobber-001) · Nightmare · 2026-09-13
+- [nightmare-components-001](https://xomdata.com/practice/nightmare-components-001) · Nightmare · 2026-09-13
+- [nightmare-scc-001](https://xomdata.com/practice/nightmare-scc-001) · Nightmare · 2026-09-11
+- [expert-final-rec-003](https://xomdata.com/practice/expert-final-rec-003) · Nightmare · 2026-09-10
+- [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-09-10
+- [easy-where-010](https://xomdata.com/practice/easy-where-010) · Easy · 2026-09-10
+- [hard-gapfill-001](https://xomdata.com/practice/hard-gapfill-001) · Hard · 2026-09-09
 
-_Synced 85 solutions · last update 2026-09-02_
+_Synced 101 solutions · last update 2026-09-17_
 
 <!-- xomdata:stats:end -->
 
